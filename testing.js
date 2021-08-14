@@ -1,3 +1,3 @@
-const num1 = 2000;
-let num2 = 30000;
+const num1 = dfj;
+let num2 = e;
 console.log(num1 + num2);
